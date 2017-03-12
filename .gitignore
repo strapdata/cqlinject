@@ -1,0 +1,10 @@
+/tests
+/private
+/lib
+/target
+/build/
+/src/test/
+.DS_Store
+.settings
+.project
+.classpath

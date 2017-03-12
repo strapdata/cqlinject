@@ -1,0 +1,10 @@
+0.3.3 - 2017-03-12
+  * Add support for Cassandra UUID
+  
+0.3 - 2016-09-14
+  * Add mapping update before injecting.
+  
+0.2 - 2016-06-28
+  * Add support of CSV injection.
+
+0.1 - 2016-05-27 - Initial release.
